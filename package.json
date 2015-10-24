@@ -1,0 +1,19 @@
+{
+  "name": "dijkstra",
+  "version": "1.0.0",
+  "description": "Dijkstra's algorithm",
+  "main": "graph.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Savid/dijkstra.git"
+  },
+"files": [
+    "graph.js"
+  ],
+  "author": "Andrew Hayward - https://github.com/andrewhayward, Savid",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Savid/dijkstra/issues"
+  },
+  "homepage": "https://github.com/Savid/dijkstra"
+}
